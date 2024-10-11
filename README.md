@@ -8,8 +8,6 @@ Tools utilizzati:
 - Virustotal
 - DNSlytics
 - OTXAlienvault
-- Google Dorks
-
 
 LOG proveninte dall'IPS:
 
@@ -26,6 +24,26 @@ Per ottenere il testo in chiaro utilizzo la funzione "From Base 64". Da questo l
 
 
 <img width="1274" alt="cyberchef" src="https://github.com/user-attachments/assets/ca52658b-507b-4c5c-a524-3833b6eaf744">
+
+Procedo con l'analisi del Source IP (36.73.190.32 ):
+
+È stato analizzato l’IP 36.73.190.32 e sono state raccolte le seguenti evidenze:
+- L’IP è stato riportato su AbuseIPdb 0 volte:
+https://www.abuseipdb.com/check/36.73.190.32
+
+-L’IP non sembra essere legato ad un dominio o sito internet come da evidenze su:
+https://search.dnslytics.com/ip/36.73.190.32
+
+-L’IP viene riportato su OTX Alienvault e non sembra essere collegato a Pulse (dashboard) pubbliche:
+https://otx.alienvault.com/indicator/ip/36.73.190.32
+
+Effettuando ulteriori ricerche su fonti pubbliche (tramite Google Dorks), non si riscontrano informazioni relative all’attività svolta da tale IP.
+Considerando la natura dell’operazione effettuata, ovvero tentativo di XSS sulla pagina whoami del sito web, e l’origine dell’IP (indonesia), si consiglia di mettere in blocco tale IP.
+
+
+  
+
+
 
 
 
