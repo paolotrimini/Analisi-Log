@@ -7,7 +7,7 @@ Tools utilizzati:
 - Abuseipdb
 - Virustotal
 - DNSlytics
-- OTXAlienvaul
+- OTXAlienvault
 - Google Dorks
 
 
