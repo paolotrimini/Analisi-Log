@@ -22,6 +22,8 @@ Utilizzo il tool Cyberchef per decifrare la parte di testo cifrata:
 
 Per ottenere il testo in chiaro utilizzo la funzione "From Base 64". Da questo log, proveniente dall’ips, è stato riscontrato che l’attaccante sta verificando se la pagina “whoami” del sito è vulnerabile ad un attacco XSS (Cross-Site Scripting):
 
+<URI> GET /aboutus/whoami.php?sVirtualURL=="><script%20>alert(String.fromCharCode(88,83,83))</script>&iIDDalPortale=&iIDLink=-1 HTTP/1.1</URI>
+
 
 <img width="1274" alt="cyberchef" src="https://github.com/user-attachments/assets/ca52658b-507b-4c5c-a524-3833b6eaf744">
 
