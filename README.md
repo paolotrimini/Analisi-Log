@@ -31,10 +31,10 @@ Procedo con l'analisi del Source IP (36.73.190.32 ):
 - L’IP è stato riportato su AbuseIPdb 0 volte:
 https://www.abuseipdb.com/check/36.73.190.32
 
--L’IP non sembra essere legato ad un dominio o sito internet come da evidenze su:
+- L’IP non sembra essere legato ad un dominio o sito internet come da evidenze su:
 https://search.dnslytics.com/ip/36.73.190.32
 
--L’IP viene riportato su OTX Alienvault e non sembra essere collegato a Pulse (dashboard) pubbliche:
+- L’IP viene riportato su OTX Alienvault e non sembra essere collegato a Pulse (dashboard) pubbliche:
 https://otx.alienvault.com/indicator/ip/36.73.190.32
 
 Effettuando ulteriori ricerche su fonti pubbliche (tramite Google Dorks), non si riscontrano informazioni relative all’attività svolta da tale IP.
