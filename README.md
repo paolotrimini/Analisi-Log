@@ -1,6 +1,6 @@
 # Analisi LOG
 
-L'obiettivo di questo laboratorio è l'analisi di un LOG.
+In questo laboratorio verrà analizzato un log proveniente da un IPS (Intrusion Prevention System) utilizzando il SIEM Splunk, con l'obiettivo di identificare indicatori di compromissione (IOC) e potenziali minacce. 
 
 Tools utilizzati:
 - Cyberchef
