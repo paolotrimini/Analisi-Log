@@ -33,13 +33,15 @@ https://www.abuseipdb.com/check/36.73.190.32
 
 ![abuseipdb](https://github.com/user-attachments/assets/488c6845-0ad0-4815-b5a7-e68fcb03aa56)
 
-
-
 - L’IP non sembra essere legato ad un dominio o sito internet come da evidenze su:
 https://search.dnslytics.com/ip/36.73.190.32
 
+<img width="1062" alt="dnslytics" src="https://github.com/user-attachments/assets/c25ef7e1-4f4e-4650-b0f4-b4ee536f1987">
+
 - L’IP viene riportato su OTX Alienvault e non sembra essere collegato a Pulse (dashboard) pubbliche:
 https://otx.alienvault.com/indicator/ip/36.73.190.32
+
+<img width="1259" alt="otxalienvault" src="https://github.com/user-attachments/assets/9415b5a7-a681-44e9-ab4c-92190f90e742">
 
 Effettuando ulteriori ricerche su fonti pubbliche (tramite Google Dorks), non si riscontrano informazioni relative all’attività svolta da tale IP.
 Considerando la natura dell’operazione effettuata, ovvero tentativo di XSS sulla pagina whoami del sito web, e l’origine dell’IP (indonesia), si consiglia di mettere in blocco tale IP.
